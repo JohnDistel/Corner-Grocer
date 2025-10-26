@@ -10,9 +10,7 @@ Build and Run
 ------------------------------------------------------------
 1. Unzip to your preferred location.
 2. Open the Visual Studio solution (CornerGrocer.sln).
-3. Ensure the following files are included in the project:
-       1. CornerGrocer.cpp (main.cpp)
-       2. CS210_Project_Three_Input_File.txt
+3. Ensure the following files are included in the project: CornerGrocer.cpp (main.cpp) and CS210_Project_Three_Input_File.txt
 4. Build the project (Build → Rebuild Solution).
 5. Run the program (Debug → Start Without Debugging).
 6. Verify that "frequency.dat" is created in the project folder.
